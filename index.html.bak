@@ -31,7 +31,9 @@
             different environments and I like to learn a new things and to be
             able learn it quickly, like programs skill and languages. </p>
         </div>
-        <div class="col-md-6"><img src="images/2.png" class="img-fluid" width="250">
+        <div class="col-md-6">
+          <h2><b>Contact</b></h2>
+          <h2> </h2>
           <p><br>
             <img src="images/email.png" class="img-fluid" style="width: 20px; height: 20px;">&nbsp;<a
               href="mailto:saengwichian_b@silpakorn.edu" target="_blank" style="color: black;">Saengwichian_b@silpakorn.edu</a></p>
@@ -44,7 +46,9 @@
         </div>
       </div>
       <div class="row pt-5">
-        <div class="col-md-12"><img src="images/3.png" class="img-fluid" width="250">
+        <div class="col-md-12">
+          <h2><b>Education</b></h2>
+          <h2> </h2>
           <h4><br>
             July, 2021 - Present</h4>
           <p>Faculty of Arts : Information and Library Science Major, Political
@@ -52,14 +56,18 @@
         </div>
       </div>
       <div class="row pt-5">
-        <div class="col-md-6"> <img src="images/4.png" class="img-fluid" width="250">
+        <div class="col-md-6">
+          <h2> <b>Computer Skills</b></h2>
+          <h2> </h2>
           <p><br>
             <img src="images/word_732226.png" class="img-fluid" width="40"> <img
               src="images/powerpoint_732224.png" class="img-fluid" width="40"> <img
               src="images/inkscape.png" class="img-fluid" width="40"> <img src="images/bluegriffon.png"
               class="img-fluid" width="50"></p>
         </div>
-        <div class="col-md-6"> <img src="images/5.png" class="img-fluid" width="250">
+        <div class="col-md-6">
+          <h2> <b>Technical Skills</b></h2>
+          <h2> </h2>
           <p><br>
             <img src="images/html_1051277.png" class="img-fluid" width="40"> <img
               src="images/css-3_732190.png" class="img-fluid" width="40">&nbsp;
@@ -67,14 +75,18 @@
         </div>
       </div>
       <div class="row pt-5">
-        <div class="col-md-6"> <img src="images/6.png" class="img-fluid" width="250">
+        <div class="col-md-6">
+          <h2> <b>Language Skills</b></h2>
+          <h2> </h2>
           <p><br>
             <img src="images/usa_4628635.png" class="img-fluid" width="40">&nbsp;
             Fluent English </p>
           <p><img src="images/south-korea_5111586.png" class="img-fluid" width="40">&nbsp;Conversational
             Korean </p>
         </div>
-        <div class="col-md-6"> <img src="images/7.png" class="img-fluid" width="250">
+        <div class="col-md-6">
+          <h2> <b>Personal Skills</b></h2>
+          <h2> </h2>
           <ul>
             <br>
             <li> Time Management </li>
