@@ -1,4 +1,8 @@
-h2{
+h1{
+font-family: 'DM Sans', sans-serif;
+}
+
+h3{
 font-family: 'DM Sans', sans-serif;
 }
 
@@ -6,10 +10,13 @@ h4{
 font-family: 'DM Sans', sans-serif;
 }
 
-h5{
-font-family: 'DM Sans', sans-serif;
-}
-
 p{font-family: 'Lora', serif;
 }
 
+.my-bg{
+   background-color: #fcf7de;
+}
+
+.my-bg1{
+background-color: #ffaacc;
+}
